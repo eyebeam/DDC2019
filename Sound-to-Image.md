@@ -1,4 +1,4 @@
-##From sound to image and image to sound in Max
+## From Sound to Image and Image to Sound in Max
 
 ## Authors
 Cory Metcalf and Sam Tarakajian
