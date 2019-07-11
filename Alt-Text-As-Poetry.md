@@ -34,7 +34,7 @@ Students will walk away with a deeper understanding of web accessibility and alt
 * Pens/pencils
 * Worksheets https://drive.google.com/file/d/1bb8rd0kGCvwCqesaPsJxNtf2Q3AW1iIE/view?usp=sharing
 * Projector or monitor
-* Presentation https://drive.google.com/file/d/19cbPtf2Nmh52nkDkv0kniojA6KDh0MpF/view?usp=sharing
+* Presentation https://drive.google.com/file/d/1mWL42RQNKW1jyvXNqpRGvfB2mcAVUUvN/view
 
 ## Exercises To Do Before Class
 n/a
