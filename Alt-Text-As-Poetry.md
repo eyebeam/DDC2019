@@ -69,12 +69,15 @@ And depending on where you work and volunteer you may be able to influence the a
 By framing alt-text as a type of poetry, we can approach writing it with some of the ideas and strategies that have been developed by poets. There are three things that we have found to be particularly helpful.
 
 1. Attention to Language
+
 Simply by writing alt-text with thought and care, we shift the process. What words are we using? What are their connotations? What is the tone of our writing? What is the voice? How do those align with or contrast with the tone and perspective of the image?
 
 2. Word Economy
+
 Sighted people have a tendency to over-describe images. While there are times for long and lavish descriptions, alt-text usually aims to be concise. For most images, one or two sentences will do. Poetry has a lot to teach us about paring down language and being expressive, while being brief.
 
 3. Experimental Approach
+
 We have so much to learn from poetry about being more playful and exploratory in how we write alt-text. There are lots of complex and interesting questions that come up when translating visual information into text. We need to try out different ways to doing this and learn from each other's strategies and techniques.
 
 ## Exercises:
