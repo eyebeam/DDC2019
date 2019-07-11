@@ -69,7 +69,7 @@ Presentation: Students will be able to upload their podcasts to Soundcloud to sh
 
 ## Post Session
 Keep Listening!
-[Storycorps.org](https://storycorps.org/)
-[Another Round](https://www.buzzfeed.com/anotherround)
-[Pod Save The People](https://crooked.com/podcast-series/pod-save-the-people/)
-[Yes!](https://www.yesmagazine.org/issues/good-money/10-podcasts-that-every-social-justice-nerd-should-listen-to-20181219)
+* [Storycorps.org](https://storycorps.org/)
+* [Another Round](https://www.buzzfeed.com/anotherround)
+* [Pod Save The People](https://crooked.com/podcast-series/pod-save-the-people/)
+* [Yes!](https://www.yesmagazine.org/issues/good-money/10-podcasts-that-every-social-justice-nerd-should-listen-to-20181219)
