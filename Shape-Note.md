@@ -48,26 +48,45 @@ Sacred Harp book, Denson Edition
 
 ## Exercise Descriptions
 Overview
+
 The overview will begin cover the history and context of shape note singing and why it can help us understand working with different moving parts in a group to create a unified whole. Rudimentary musical concepts will be covered at this point such as notation, rhythm, rudimentary sight reading etc. 
+
 we will read through the shapes and talk about why the shapes in the context of music theory are meant to aid the singers in picking up sight reading faster than traditional notation. 
+
 (dur: 30 min)
+
 Hands on vocal practice
+
 This is a mini-syllabus of the hands-on portion. Instructor will run through a series of vocal exercises intended to warm up the participants as well as getting them to feel comfortable using their voices in the class. Eventually the exercise will lead to 4 part harmony and reading shape note hymn New Britain/Plenary/Africa. 
+
 A. Unison/Scales
+
 The group will first practice together vocalizing tones in unison. They will then sing through a major scale and a minor scale to recognize the different qualities of the scales. The instructor will loosely conduct the group through these exercises so everyone keeps time together. 
+
 B. Intervals and Chords
+
 The entire premise of shape notation is based on graphically recognizing intervals. In this exercise, participants will sing through a series of intervals (maj/min 2nds, maj/min 3rds, perfect 4ths and 5ths) in unison. 
+
 (dur: A+B 10 min)
+
 C. Harmony and Parts
+
 Instructor will explain vocal ranges and assist students in finding their range. At this point dividing the class up to Treble, Alto, Tenor and Bass sections. The arrangement of the room will be a hollow square: each side of the square is a section. 
 In the hollow square arrangement, the group will then sing in unison through each part of 'Restoration' out of the Sacred Harp hymnal. No need to try and follow the rhythm at this point. Loosely sing through the notes of each part as a group. 
 Then the entire group will sing through the tenor part following the rhythm as best as possible. Then the group will repeat the tenor part, but this time, the alto section will sing its part. On the next repeat, the treble section will be added and finally, the bass section will be added. 
+
 (dur: C 30-40 min)
+
 MuseScore
+
 In this phase, participants will be introduced to MuseScore, an open source application for notation so that if they are can demo original harmonies as well as write them out for others to read through.
+
 (dur: 20 min)
+
 Wrap up 
+
 a group discussion and reflection on the workshop
+
 (dur: 10 min)
 
 ## Student Reflections, Takeaways & Next Steps
